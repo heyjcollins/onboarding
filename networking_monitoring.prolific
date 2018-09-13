@@ -63,7 +63,7 @@ The initial curl should fail. After applying the networking policy, the curl sho
 
 Poke around to see what else you can and can't do with the network policy commands.
 Can you allow access to mutliple ports?
-What happens if you allow access to a port that the app doesn't listen to? Is it give the same error?
+What happens if you allow access to a port that the app doesn't listen to? Does it give the same error?
 
 ### Resources
 [Container networking docs](https://github.com/cloudfoundry/cf-networking-release/tree/develop/docs)
